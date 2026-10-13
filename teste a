@@ -1,0 +1,2 @@
+git init && git add -A && git commit -m "Bolão NBA" && git branch -M main
+git remote add origin https://github.com/SEU-USUARIO/bolao-nba.git && git push -u origin main
